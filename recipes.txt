@@ -4,3 +4,6 @@ let's create few recipes
 puri
 aloo chaat
 aloo 65
+
+meat fry
+meat dry
